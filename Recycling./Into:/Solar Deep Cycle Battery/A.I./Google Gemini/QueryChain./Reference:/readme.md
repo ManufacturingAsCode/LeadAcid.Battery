@@ -1,2 +1,5 @@
 - https://larecycling.co.uk/lead-acid-battery-recycling/
-- 
+- https://www.remetalrecycling.com/news/how-hydro-separators-improve-battery-recycling.html
+- https://batteryaccessories.net/blogs/news/can-you-recycle-lead-acid-batteries
+- https://www.batterystuff.com/kb/frequently-asked-questions/powersports-batteries-faq/all-about-battery-recycling.html
+- [The effect of Pb and other elements found in recycled polypropylene on the manufacturing of lead-acid battery cases](https://www.sciencedirect.com/science/article/abs/pii/S0142941807001055)
